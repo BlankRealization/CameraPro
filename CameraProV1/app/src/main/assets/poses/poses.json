@@ -1,0 +1,2352 @@
+{
+ "version": 1,
+ "poses": [
+  {
+   "id": "relaxed",
+   "name": "Relaxed stand",
+   "cue": "Stand tall, shoulders loose, arms relaxed. Look just past the camera.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "casual"
+   ],
+   "trend": 1,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.159,
+      2.265
+     ],
+     "lWrist": [
+      -1.256,
+      3.662
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.159,
+      2.265
+     ],
+     "rWrist": [
+      1.256,
+      3.662
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pockets",
+   "name": "Hands in pockets",
+   "cue": "Slide both hands into your pockets, elbows slightly out, soft smile.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "casual",
+    "confident"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.463,
+      2.19
+     ],
+     "lWrist": [
+      -0.763,
+      3.402
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.463,
+      2.19
+     ],
+     "rWrist": [
+      0.763,
+      3.402
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hip",
+   "name": "Hand on hip",
+   "cue": "Put one hand on your hip, shift your weight onto the other leg.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "confident"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.549,
+      3.342
+     ],
+     "rHip": [
+      0.549,
+      3.418
+     ],
+     "lElbow": [
+      -1.873,
+      1.962
+     ],
+     "lWrist": [
+      -0.937,
+      3.002
+     ],
+     "lKnee": [
+      -0.618,
+      5.34
+     ],
+     "lAnkle": [
+      -0.688,
+      7.339
+     ],
+     "rElbow": [
+      1.159,
+      2.265
+     ],
+     "rWrist": [
+      1.256,
+      3.662
+     ],
+     "rKnee": [
+      0.964,
+      5.375
+     ],
+     "rAnkle": [
+      1.104,
+      7.37
+     ]
+    }
+   ]
+  },
+  {
+   "id": "contrapposto",
+   "name": "Weight shift",
+   "cue": "Put your weight on one leg, bend the other knee a little, drop one shoulder.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "confident",
+    "casual"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.943,
+      0.896
+     ],
+     "rShoulder": [
+      0.943,
+      0.664
+     ],
+     "lHip": [
+      -0.414,
+      3.367
+     ],
+     "rHip": [
+      0.686,
+      3.386
+     ],
+     "lElbow": [
+      -1.152,
+      2.381
+     ],
+     "lWrist": [
+      -1.249,
+      3.778
+     ],
+     "lKnee": [
+      -0.484,
+      5.366
+     ],
+     "lAnkle": [
+      -0.553,
+      7.364
+     ],
+     "rElbow": [
+      1.152,
+      2.15
+     ],
+     "rWrist": [
+      1.249,
+      3.546
+     ],
+     "rKnee": [
+      1.237,
+      5.309
+     ],
+     "rAnkle": [
+      1.342,
+      7.306
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crossed",
+   "name": "Arms crossed",
+   "cue": "Cross your arms loosely, chin slightly up, relaxed face.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "confident"
+   ],
+   "trend": 1,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.338,
+      2.229
+     ],
+     "lWrist": [
+      0.056,
+      2.107
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.338,
+      2.229
+     ],
+     "rWrist": [
+      -0.056,
+      2.107
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "behind",
+   "name": "Hands behind back",
+   "cue": "Hold your hands together behind you, chest open, stand straight.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "calm",
+    "confident"
+   ],
+   "trend": 1,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.159,
+      2.265
+     ],
+     "lWrist": [
+      -0.356,
+      3.412
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.159,
+      2.265
+     ],
+     "rWrist": [
+      0.356,
+      3.412
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "walk",
+   "name": "Walking toward camera",
+   "cue": "Walk slowly toward the camera, swing your arms naturally, look ahead.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "candid",
+    "casual"
+   ],
+   "trend": 3,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.313,
+      2.235
+     ],
+     "lWrist": [
+      -1.508,
+      3.622
+     ],
+     "lKnee": [
+      -1.034,
+      5.321
+     ],
+     "lAnkle": [
+      -1.243,
+      7.31
+     ],
+     "rElbow": [
+      1.313,
+      2.235
+     ],
+     "rWrist": [
+      1.508,
+      3.622
+     ],
+     "rKnee": [
+      1.101,
+      5.303
+     ],
+     "rAnkle": [
+      1.449,
+      7.272
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wall",
+   "name": "Lean on a wall",
+   "cue": "Lean one shoulder on the wall, cross one foot over the other, look to the side.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "candid",
+    "cool"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.948,
+      0.846
+     ],
+     "rShoulder": [
+      0.948,
+      0.714
+     ],
+     "lHip": [
+      -0.183,
+      3.431
+     ],
+     "rHip": [
+      0.906,
+      3.278
+     ],
+     "lElbow": [
+      -1.208,
+      2.323
+     ],
+     "lWrist": [
+      -1.306,
+      3.72
+     ],
+     "lKnee": [
+      -0.392,
+      5.42
+     ],
+     "lAnkle": [
+      -0.531,
+      7.415
+     ],
+     "rElbow": [
+      1.582,
+      2.073
+     ],
+     "rWrist": [
+      2.385,
+      3.22
+     ],
+     "rKnee": [
+      1.254,
+      5.248
+     ],
+     "rAnkle": [
+      0.838,
+      7.204
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hair",
+   "name": "Hand in hair",
+   "cue": "Run one hand through your hair, other arm relaxed, look away and laugh.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "playful",
+    "candid"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.159,
+      2.265
+     ],
+     "lWrist": [
+      -1.256,
+      3.662
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.7,
+      -0.519
+     ],
+     "rWrist": [
+      0.305,
+      -0.397
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "thinking",
+   "name": "Hand on chin",
+   "cue": "Rest your chin on one hand, other arm across your waist, look into the distance.",
+   "people": 1,
+   "framing": "half",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "calm",
+    "candid"
+   ],
+   "trend": 1,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.463,
+      2.19
+     ],
+     "lWrist": [
+      -0.111,
+      1.827
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      0.2,
+      2.079
+     ],
+     "rWrist": [
+      0.322,
+      0.684
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wave",
+   "name": "Wave",
+   "cue": "Raise one hand and wave at someone off-camera, big smile.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "playful"
+   ],
+   "trend": 1,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.159,
+      2.265
+     ],
+     "lWrist": [
+      -1.256,
+      3.662
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      2.36,
+      0.267
+     ],
+     "rWrist": [
+      2.603,
+      -1.112
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "celebrate",
+   "name": "Arms up",
+   "cue": "Throw both arms up and laugh. Do it three times and keep the best.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "playful"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.7,
+      -0.519
+     ],
+     "lWrist": [
+      -1.943,
+      -1.898
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.7,
+      -0.519
+     ],
+     "rWrist": [
+      1.943,
+      -1.898
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jump",
+   "name": "Jump",
+   "cue": "Jump with arms up and knees bent. The photographer counts: one, two, three.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "playful"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.914,
+      -0.369
+     ],
+     "lWrist": [
+      -2.277,
+      -1.721
+     ],
+     "lKnee": [
+      -1.489,
+      5.146
+     ],
+     "lAnkle": [
+      -1.005,
+      7.086
+     ],
+     "rElbow": [
+      1.914,
+      -0.369
+     ],
+     "rWrist": [
+      2.277,
+      -1.721
+     ],
+     "rKnee": [
+      1.489,
+      5.146
+     ],
+     "rAnkle": [
+      1.005,
+      7.086
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wide",
+   "name": "Arms wide",
+   "cue": "Open your arms wide and take in the view. Tilt your head back a little.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "LANDSCAPE",
+    "GENERAL"
+   ],
+   "moods": [
+    "free",
+    "calm"
+   ],
+   "trend": 3,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -2.427,
+      0.52
+     ],
+     "lWrist": [
+      -3.806,
+      0.276
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      2.427,
+      0.52
+     ],
+     "rWrist": [
+      3.806,
+      0.276
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "viewback",
+   "name": "Take in the view",
+   "cue": "Hands in pockets, look out at the scenery. A little off-center looks best.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "LANDSCAPE",
+    "ARCHITECTURE"
+   ],
+   "moods": [
+    "calm"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.95,
+      0.78
+     ],
+     "rShoulder": [
+      0.95,
+      0.78
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.463,
+      2.19
+     ],
+     "lWrist": [
+      -0.763,
+      3.402
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.463,
+      2.19
+     ],
+     "rWrist": [
+      0.763,
+      3.402
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shoulder",
+   "name": "Over the shoulder",
+   "cue": "Turn your body away, then look back over your shoulder at the camera.",
+   "people": 1,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "candid",
+    "cool"
+   ],
+   "trend": 3,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.938,
+      0.631
+     ],
+     "rShoulder": [
+      0.938,
+      0.929
+     ],
+     "lHip": [
+      -0.685,
+      3.348
+     ],
+     "rHip": [
+      0.413,
+      3.405
+     ],
+     "lElbow": [
+      -1.25,
+      2.099
+     ],
+     "lWrist": [
+      -1.397,
+      3.491
+     ],
+     "lKnee": [
+      -0.825,
+      5.343
+     ],
+     "lAnkle": [
+      -0.895,
+      7.342
+     ],
+     "rElbow": [
+      1.301,
+      2.384
+     ],
+     "rWrist": [
+      1.496,
+      3.77
+     ],
+     "rKnee": [
+      0.553,
+      5.4
+     ],
+     "rAnkle": [
+      0.622,
+      7.399
+     ]
+    }
+   ]
+  },
+  {
+   "id": "steps",
+   "name": "Sit on steps",
+   "cue": "Sit with knees apart, forearms resting on your knees, lean in a little.",
+   "people": 1,
+   "framing": "half",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "casual",
+    "candid"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.949,
+      0.813
+     ],
+     "rShoulder": [
+      0.949,
+      0.747
+     ],
+     "lHip": [
+      -0.459,
+      3.398
+     ],
+     "rHip": [
+      0.64,
+      3.359
+     ],
+     "lElbow": [
+      -1.699,
+      2.112
+     ],
+     "lWrist": [
+      -1.221,
+      3.428
+     ],
+     "lKnee": [
+      -0.871,
+      4.418
+     ],
+     "lAnkle": [
+      -1.011,
+      6.413
+     ],
+     "rElbow": [
+      1.699,
+      2.046
+     ],
+     "rWrist": [
+      1.221,
+      3.361
+     ],
+     "rKnee": [
+      1.052,
+      4.379
+     ],
+     "rAnkle": [
+      1.192,
+      6.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kneeup",
+   "name": "Sit, one knee up",
+   "cue": "Sit down, pull one knee up and hug it. Look off to the side.",
+   "people": 1,
+   "framing": "half",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "calm",
+    "candid"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.948,
+      0.714
+     ],
+     "rShoulder": [
+      0.948,
+      0.846
+     ],
+     "lHip": [
+      -0.73,
+      3.335
+     ],
+     "rHip": [
+      0.367,
+      3.412
+     ],
+     "lElbow": [
+      -1.26,
+      2.181
+     ],
+     "lWrist": [
+      -1.406,
+      3.573
+     ],
+     "lKnee": [
+      -0.897,
+      4.524
+     ],
+     "lAnkle": [
+      -0.967,
+      6.522
+     ],
+     "rElbow": [
+      1.652,
+      2.171
+     ],
+     "rWrist": [
+      3.031,
+      2.414
+     ],
+     "rKnee": [
+      0.817,
+      4.525
+     ],
+     "rAnkle": [
+      -0.33,
+      6.163
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sitback",
+   "name": "Sit and lean back",
+   "cue": "Sit, lean back on your hands, legs stretched out and relaxed.",
+   "people": 1,
+   "framing": "half",
+   "camera": "rear",
+   "scenes": [
+    "LANDSCAPE",
+    "GENERAL"
+   ],
+   "moods": [
+    "calm",
+    "free"
+   ],
+   "trend": 1,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.941,
+      0.648
+     ],
+     "rShoulder": [
+      0.941,
+      0.912
+     ],
+     "lHip": [
+      -0.906,
+      3.278
+     ],
+     "rHip": [
+      0.183,
+      3.431
+     ],
+     "lElbow": [
+      -1.691,
+      1.947
+     ],
+     "lWrist": [
+      -2.215,
+      3.245
+     ],
+     "lKnee": [
+      -1.011,
+      4.273
+     ],
+     "lAnkle": [
+      -1.081,
+      6.271
+     ],
+     "rElbow": [
+      1.691,
+      2.211
+     ],
+     "rWrist": [
+      2.215,
+      3.509
+     ],
+     "rKnee": [
+      0.287,
+      4.426
+     ],
+     "rAnkle": [
+      0.357,
+      6.425
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peace",
+   "name": "Peace sign",
+   "cue": "Raise a hand beside your face with a peace sign. Tilt your head toward it.",
+   "people": 1,
+   "framing": "close",
+   "camera": "selfie",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "playful"
+   ],
+   "trend": 3,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.948,
+      0.714
+     ],
+     "rShoulder": [
+      0.948,
+      0.846
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.156,
+      2.199
+     ],
+     "lWrist": [
+      -1.254,
+      3.596
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.912,
+      1.995
+     ],
+     "rWrist": [
+      1.55,
+      0.643
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chin",
+   "name": "Hand near cheek",
+   "cue": "Touch your fingertips lightly to your cheek or jaw. Chin down, eyes to the lens.",
+   "people": 1,
+   "framing": "close",
+   "camera": "selfie",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "calm",
+    "cool"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.949,
+      0.83
+     ],
+     "rShoulder": [
+      0.949,
+      0.73
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.157,
+      2.315
+     ],
+     "lWrist": [
+      -1.255,
+      3.712
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      0.199,
+      2.029
+     ],
+     "rWrist": [
+      0.321,
+      0.635
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tilt",
+   "name": "Head tilt",
+   "cue": "Tilt your head slightly, drop one shoulder, smile with your eyes.",
+   "people": 1,
+   "framing": "close",
+   "camera": "selfie",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "casual"
+   ],
+   "trend": 1,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.945,
+      0.879
+     ],
+     "rShoulder": [
+      0.945,
+      0.681
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.205,
+      2.357
+     ],
+     "lWrist": [
+      -1.327,
+      3.751
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.205,
+      2.158
+     ],
+     "rWrist": [
+      1.327,
+      3.553
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "selfiehair",
+   "name": "Hair flip",
+   "cue": "Lift one hand to your hair, look slightly up, relaxed smile.",
+   "people": 1,
+   "framing": "close",
+   "camera": "selfie",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "playful",
+    "candid"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      0.0,
+      0.0
+     ],
+     "neck": [
+      0.0,
+      0.78
+     ],
+     "lShoulder": [
+      -0.948,
+      0.714
+     ],
+     "rShoulder": [
+      0.948,
+      0.846
+     ],
+     "lHip": [
+      -0.55,
+      3.38
+     ],
+     "rHip": [
+      0.55,
+      3.38
+     ],
+     "lElbow": [
+      -1.156,
+      2.199
+     ],
+     "lWrist": [
+      -1.254,
+      3.596
+     ],
+     "lKnee": [
+      -0.69,
+      5.375
+     ],
+     "lAnkle": [
+      -0.759,
+      7.374
+     ],
+     "rElbow": [
+      1.698,
+      -0.453
+     ],
+     "rWrist": [
+      0.303,
+      -0.331
+     ],
+     "rKnee": [
+      0.69,
+      5.375
+     ],
+     "rAnkle": [
+      0.759,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "armaround",
+   "name": "Arm around",
+   "cue": "Stand close, one of you puts an arm around the other's shoulder. Lean in.",
+   "people": 2,
+   "framing": "half",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "friendly"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      -1.3,
+      0.0
+     ],
+     "neck": [
+      -1.3,
+      0.78
+     ],
+     "lShoulder": [
+      -2.249,
+      0.73
+     ],
+     "rShoulder": [
+      -0.351,
+      0.83
+     ],
+     "lHip": [
+      -1.985,
+      3.348
+     ],
+     "rHip": [
+      -0.887,
+      3.405
+     ],
+     "lElbow": [
+      -2.457,
+      2.216
+     ],
+     "lWrist": [
+      -2.555,
+      3.612
+     ],
+     "lKnee": [
+      -2.125,
+      5.343
+     ],
+     "lAnkle": [
+      -2.195,
+      7.342
+     ],
+     "rElbow": [
+      1.126,
+      1.09
+     ],
+     "rWrist": [
+      2.49,
+      0.775
+     ],
+     "rKnee": [
+      -0.747,
+      5.4
+     ],
+     "rAnkle": [
+      -0.678,
+      7.399
+     ]
+    },
+    {
+     "head": [
+      1.3,
+      0.0
+     ],
+     "neck": [
+      1.3,
+      0.78
+     ],
+     "lShoulder": [
+      0.351,
+      0.83
+     ],
+     "rShoulder": [
+      2.249,
+      0.73
+     ],
+     "lHip": [
+      0.887,
+      3.405
+     ],
+     "rHip": [
+      1.985,
+      3.348
+     ],
+     "lElbow": [
+      0.143,
+      2.315
+     ],
+     "lWrist": [
+      0.045,
+      3.712
+     ],
+     "lKnee": [
+      0.747,
+      5.4
+     ],
+     "lAnkle": [
+      0.678,
+      7.399
+     ],
+     "rElbow": [
+      2.457,
+      2.216
+     ],
+     "rWrist": [
+      2.555,
+      3.612
+     ],
+     "rKnee": [
+      2.125,
+      5.343
+     ],
+     "rAnkle": [
+      2.195,
+      7.342
+     ]
+    }
+   ]
+  },
+  {
+   "id": "holdhands",
+   "name": "Holding hands",
+   "cue": "Hold hands between you and walk or sway slowly. Look at each other, then the camera.",
+   "people": 2,
+   "framing": "full",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "romantic",
+    "candid"
+   ],
+   "trend": 3,
+   "figures": [
+    {
+     "head": [
+      -1.35,
+      0.0
+     ],
+     "neck": [
+      -1.35,
+      0.78
+     ],
+     "lShoulder": [
+      -2.3,
+      0.78
+     ],
+     "rShoulder": [
+      -0.4,
+      0.78
+     ],
+     "lHip": [
+      -1.9,
+      3.38
+     ],
+     "rHip": [
+      -0.8,
+      3.38
+     ],
+     "lElbow": [
+      -2.509,
+      2.265
+     ],
+     "lWrist": [
+      -2.606,
+      3.662
+     ],
+     "lKnee": [
+      -2.04,
+      5.375
+     ],
+     "lAnkle": [
+      -2.109,
+      7.374
+     ],
+     "rElbow": [
+      -0.14,
+      2.257
+     ],
+     "rWrist": [
+      0.104,
+      3.636
+     ],
+     "rKnee": [
+      -0.66,
+      5.375
+     ],
+     "rAnkle": [
+      -0.591,
+      7.374
+     ]
+    },
+    {
+     "head": [
+      1.35,
+      0.0
+     ],
+     "neck": [
+      1.35,
+      0.78
+     ],
+     "lShoulder": [
+      0.4,
+      0.78
+     ],
+     "rShoulder": [
+      2.3,
+      0.78
+     ],
+     "lHip": [
+      0.8,
+      3.38
+     ],
+     "rHip": [
+      1.9,
+      3.38
+     ],
+     "lElbow": [
+      0.14,
+      2.257
+     ],
+     "lWrist": [
+      -0.104,
+      3.636
+     ],
+     "lKnee": [
+      0.66,
+      5.375
+     ],
+     "lAnkle": [
+      0.591,
+      7.374
+     ],
+     "rElbow": [
+      2.509,
+      2.265
+     ],
+     "rWrist": [
+      2.606,
+      3.662
+     ],
+     "rKnee": [
+      2.04,
+      5.375
+     ],
+     "rAnkle": [
+      2.109,
+      7.374
+     ]
+    }
+   ]
+  },
+  {
+   "id": "leanin",
+   "name": "Lean in",
+   "cue": "Lean your heads toward each other until they almost touch. Smile.",
+   "people": 2,
+   "framing": "half",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "friendly",
+    "romantic"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      -1.5,
+      0.0
+     ],
+     "neck": [
+      -1.5,
+      0.78
+     ],
+     "lShoulder": [
+      -2.438,
+      0.631
+     ],
+     "rShoulder": [
+      -0.562,
+      0.929
+     ],
+     "lHip": [
+      -2.45,
+      3.262
+     ],
+     "rHip": [
+      -1.364,
+      3.434
+     ],
+     "lElbow": [
+      -2.647,
+      2.117
+     ],
+     "lWrist": [
+      -2.745,
+      3.513
+     ],
+     "lKnee": [
+      -2.589,
+      5.257
+     ],
+     "lAnkle": [
+      -2.659,
+      7.256
+     ],
+     "rElbow": [
+      -0.353,
+      2.414
+     ],
+     "rWrist": [
+      -0.255,
+      3.811
+     ],
+     "rKnee": [
+      -1.224,
+      5.429
+     ],
+     "rAnkle": [
+      -1.154,
+      7.428
+     ]
+    },
+    {
+     "head": [
+      1.5,
+      0.0
+     ],
+     "neck": [
+      1.5,
+      0.78
+     ],
+     "lShoulder": [
+      0.562,
+      0.929
+     ],
+     "rShoulder": [
+      2.438,
+      0.631
+     ],
+     "lHip": [
+      1.364,
+      3.434
+     ],
+     "rHip": [
+      2.45,
+      3.262
+     ],
+     "lElbow": [
+      0.353,
+      2.414
+     ],
+     "lWrist": [
+      0.255,
+      3.811
+     ],
+     "lKnee": [
+      1.224,
+      5.429
+     ],
+     "lAnkle": [
+      1.154,
+      7.428
+     ],
+     "rElbow": [
+      2.647,
+      2.117
+     ],
+     "rWrist": [
+      2.745,
+      3.513
+     ],
+     "rKnee": [
+      2.589,
+      5.257
+     ],
+     "rAnkle": [
+      2.659,
+      7.256
+     ]
+    }
+   ]
+  },
+  {
+   "id": "backtoback",
+   "name": "Back to back",
+   "cue": "Stand back to back with arms crossed and look at the camera, confident.",
+   "people": 2,
+   "framing": "half",
+   "camera": "rear",
+   "scenes": [
+    "PORTRAIT",
+    "LANDSCAPE",
+    "ARCHITECTURE",
+    "GENERAL"
+   ],
+   "moods": [
+    "cool",
+    "confident"
+   ],
+   "trend": 2,
+   "figures": [
+    {
+     "head": [
+      -1.5,
+      0.0
+     ],
+     "neck": [
+      -1.5,
+      0.78
+     ],
+     "lShoulder": [
+      -2.45,
+      0.78
+     ],
+     "rShoulder": [
+      -0.55,
+      0.78
+     ],
+     "lHip": [
+      -2.05,
+      3.38
+     ],
+     "rHip": [
+      -0.95,
+      3.38
+     ],
+     "lElbow": [
+      -2.838,
+      2.229
+     ],
+     "lWrist": [
+      -1.444,
+      2.107
+     ],
+     "lKnee": [
+      -2.19,
+      5.375
+     ],
+     "lAnkle": [
+      -2.259,
+      7.374
+     ],
+     "rElbow": [
+      -0.162,
+      2.229
+     ],
+     "rWrist": [
+      -1.556,
+      2.107
+     ],
+     "rKnee": [
+      -0.81,
+      5.375
+     ],
+     "rAnkle": [
+      -0.741,
+      7.374
+     ]
+    },
+    {
+     "head": [
+      1.5,
+      0.0
+     ],
+     "neck": [
+      1.5,
+      0.78
+     ],
+     "lShoulder": [
+      0.55,
+      0.78
+     ],
+     "rShoulder": [
+      2.45,
+      0.78
+     ],
+     "lHip": [
+      0.95,
+      3.38
+     ],
+     "rHip": [
+      2.05,
+      3.38
+     ],
+     "lElbow": [
+      0.162,
+      2.229
+     ],
+     "lWrist": [
+      1.556,
+      2.107
+     ],
+     "lKnee": [
+      0.81,
+      5.375
+     ],
+     "lAnkle": [
+      0.741,
+      7.374
+     ],
+     "rElbow": [
+      2.838,
+      2.229
+     ],
+     "rWrist": [
+      1.444,
+      2.107
+     ],
+     "rKnee": [
+      2.19,
+      5.375
+     ],
+     "rAnkle": [
+      2.259,
+      7.374
+     ]
+    }
+   ]
+  }
+ ]
+}
